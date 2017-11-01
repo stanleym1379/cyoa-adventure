@@ -1,4 +1,3 @@
-Hello, Welcome to the your Dream Vacation. 
 Would you like to go on a international or domestic flight in the U.S.A?
 
 International Flights: [John F.Kennedy International Airport](jfk.md)
