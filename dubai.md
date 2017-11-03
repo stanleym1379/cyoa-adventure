@@ -3,5 +3,5 @@ You leave the airport and head straight to your hotel. The hotel is amazing and 
 It's early in the day and you have options of what you can do.  
 
 **What do you wish to do? You can:**  
-* _Go [skydiving](skydiving.md)_
+* _Go [skydiving](/thingstodo/skydiving.md)_
 * _Go to [Burj Khalifa (Tallest building in the world)](BurjKhalifa.md)_
