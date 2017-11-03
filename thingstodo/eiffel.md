@@ -1,0 +1,1 @@
+You arrive excitedly to the Eiffel Tower. You run to the front. You take a big picture first and you plan on going to eat dinner in the Eiffel Tower. You go on the elevator to the restaurant. The elevator falls out of the tower, you tragically fall to your death. 
