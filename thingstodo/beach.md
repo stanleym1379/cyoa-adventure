@@ -1,1 +1,1 @@
-You go rent a car and you drive to the beach. You enjoy the hot weather and the compliments of the cold water. You go swimming but you accidently go to far out and a shark head towards your way. 
+You go rent a car and you drive to the beach. You enjoy the hot weather and the compliments of the cold water . You go swimming but you accidently go to far out and a shark head towards your way. You desperately try to swim away but the bloodthirsty shark slurps you up. 
