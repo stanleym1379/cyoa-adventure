@@ -10,4 +10,4 @@ Your flying buddy tells you it's time, the doors open, you look down and Dubai i
 You and your buddy are flying through the air and the feeling is magnificent! You're on top of the world!  
 You think **NOTHING** can ruin this amazing moment except..
 
-**The harness are very and have been used by many.. It snaps and [you break loose from your flying buddy](fall.md)!!**
+**The harness are very and have been used by many.. It snaps and [you break loose from your flying buddy](endings/fall.md)!!**

@@ -2,5 +2,5 @@ You go rent a car and you drive to the beach.
 **You enjoy the hot weather and the compliments of the cold water.**  
 You lay back on your blanket and enjoy the heat...  
 The music is blasting and your're getting hot.. maybe it's time to take a dip in the water...
-### You go swimming but you accidently go to far out and see a shark is [heading towards your way](animal.md)!!  
+### You go swimming but you accidently go to far out and see a shark is [heading towards your way](endings/animal.md)!!  
  
