@@ -2,4 +2,4 @@ You have arrived in Nevada. You grab your luggage and you hurry out to find a ca
 
 [Casino](thingstodo/casino.md)
 
-[Desert](/thingstodo/desert.md)
+[Desert](thingstodo/desert.md)
