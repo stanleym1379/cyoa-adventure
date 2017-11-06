@@ -4,4 +4,4 @@ It's early in the day and you have options of what you can do.
 
 **What do you wish to do? You can:**  
 * _Go [skydiving](/thingstodo/skydiving.md)_
-* _Go to [Burj Khalifa (Tallest building in the world)](BurjKhalifa.md)_
+* _Go to [Burj Khalifa (Tallest building in the world)](/thingstodo/BurjKhalifa.md)_
