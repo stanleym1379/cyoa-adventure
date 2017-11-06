@@ -2,7 +2,7 @@ The purpose of the Create Your Own Adventure project is to use our knowledge on 
 
 [Begin your vacation adventure](airport.md)
 
-[Google Drawing Outline](https://docs.google.com/presentation/d/1YFb0UXSwWdJeB1N34KNoodrxemXi9n3wWH5P80L1p0M/edit?usp=sharing)
+[Google Drawing Outline](https://docs.google.com/a/hstat.org/drawings/d/1ZstNtaeiTGVHgO00FerQ3wK6w25ZXcO9u08HLWbnU1Q/edit?usp=sharing)
 
 [Link to Stanley's Github Profile](https://github.com/stanleym1379)
 
