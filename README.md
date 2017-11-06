@@ -6,6 +6,6 @@ The purpose of the Create Your Own Adventure project is to use our knowledge on 
 
 [Link to Stanley's Github Profile](https://github.com/stanleym1379)
 
-[Link to Sebatian's Profile](https://github.com/sebastiana7420)
+[Link to Sebastian's Profile](https://github.com/sebastiana7420)
 
 [Link to Ahmed's Profile](https://github.com/ahmedm0671)
