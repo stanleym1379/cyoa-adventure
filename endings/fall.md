@@ -6,3 +6,5 @@
 ## Suddenly you hit the hard cement.. every bone in your body breaks...  your perfect vacation has come to a morbid end... you have DIED.  
 
 **Will your family miss you? Probably not...**
+
+#### [Start Over](../README.md)?
